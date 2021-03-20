@@ -18,7 +18,7 @@ httptools==0.0.13
 idna==2.8
 immutables==0.6
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 promise==2.2.1
 python-multipart==0.0.5
