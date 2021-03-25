@@ -23,7 +23,7 @@ MarkupSafe==1.1.1
 promise==2.2.1
 python-multipart==0.0.5
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 requests==2.21.0
 Rx==1.6.1
 six==1.12.0
