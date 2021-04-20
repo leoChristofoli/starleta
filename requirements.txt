@@ -2,7 +2,7 @@ aiocontextvars==0.2.1
 aiofiles==0.4.0
 aiosqlite==0.9.0
 aniso8601==3.0.2
-asyncpg==0.18.3
+asyncpg==0.21.0
 certifi==2018.11.29
 chardet==3.0.4
 Click==7.0
